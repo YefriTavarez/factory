@@ -1,0 +1,2 @@
+finally:factory.patches.v1.move_production_doctypes_to_factory_app
+factory.patches.v1.update_production_jsons
